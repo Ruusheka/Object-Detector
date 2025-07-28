@@ -28,7 +28,7 @@ All in real-time, with just a single image upload!
 
 Upload any image, and the app will return the same image with detected objects labeled:
 
-![Demo](https://huggingface.co/spaces/Ruusheka/Object-detector/+/raw/main/demo.png)
+![Demo](https://github.com/Ruusheka/Object-detector/blob/main/assets/demo.png?raw=true)
 
 > _If no objects are detected, try using a clearer or more diverse image._
 
